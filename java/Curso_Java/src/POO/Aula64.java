@@ -1,5 +1,6 @@
 package POO;
 import java.util.Scanner;
+
 public class Aula64 {
 	
 	public static void main(String[] args) {
