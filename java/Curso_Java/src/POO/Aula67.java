@@ -12,12 +12,12 @@ public class Aula67 {
 		
 		System.out.println("Enter product data:");
 		System.out.print("Name: ");
-		p1.name = sc.nextLine();
+		//p1.name = sc.nextLine();
 		System.out.print("Price: R$ ");
-		p1.price = sc.nextDouble();
+		//p1.price = sc.nextDouble();
 		sc.nextLine();
 		System.out.print("Quantity in stock: ");
-		p1.quantity = sc.nextInt();
+		//p1.quantity = sc.nextInt();
 		sc.nextLine();
 		
 		p1.showInfo();
