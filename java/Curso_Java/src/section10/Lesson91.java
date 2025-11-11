@@ -12,7 +12,23 @@ public class Lesson91 {
 		int n = sc.nextInt();
 		SimpleProduct[] vect = new SimpleProduct[n];
 		
+		for (int i=0; i < vect.length; i++) {
+			sc.nextLine();
+			String name = sc.nextLine();
+			double price = sc.nextDouble();
+			vect[i] = new SimpleProduct(name, price);
+		}
 		
+		double sum = 0.0;
+		for(int i=0; i < vect.length; i++) {
+			sum += vect[i].getPrice();
+		}
+		
+		double media = sum/vect.length;
+		
+		System.out.printf("Average Price = %.2f%n", media);
+		
+		sc.close(); 
 	}
 
 }

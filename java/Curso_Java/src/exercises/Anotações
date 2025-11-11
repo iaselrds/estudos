@@ -1,0 +1,5 @@
+SEÇÃO 10 - Comportamento de memória, arrays e listas: 
+
+1 -> É vantajoso usar Wrapper classes pois tipos primitivos não aceitam valores nulos, enquanto as Wrapper classes aceitam.
+
+2 -> Lista é uma estrutura de dados homogênea, ordenada, que se inicia vazia e cada elemento ocupa um nó(ou nodo) da lista.
