@@ -1,5 +1,22 @@
+OBS1: Chamar um objeto dentro de uma função print() automaticamente chama o método .toString() do objeto.
+
 SEÇÃO 10 - Comportamento de memória, arrays e listas: 
 
 1 -> É vantajoso usar Wrapper classes pois tipos primitivos não aceitam valores nulos, enquanto as Wrapper classes aceitam.
 
 2 -> Lista é uma estrutura de dados homogênea, ordenada, que se inicia vazia e cada elemento ocupa um nó(ou nodo) da lista.
+
+SEÇÃO 11 - Tópicos especiais em Java: Data e Hora
+
+Data-[hora] local:
+ 2022-07-21
+ 2022-07-21T14:52
+ 2022-07-22T14:52:09
+ 2022-07-22T14:52:09.4073
+
+Data-hora global:
+ 2022-07-23T14:52:09Z
+ 2022-07-23T14:52:09.254935Z
+ 2022-07-23T14:52:09-03:00
+ 
+ 1 -> Data e hora em Java são elementos imutáveis!
