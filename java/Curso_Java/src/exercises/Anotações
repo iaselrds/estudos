@@ -20,3 +20,7 @@ Data-hora global:
  2022-07-23T14:52:09-03:00
  
  1 -> Data e hora em Java são elementos imutáveis!
+ 
+ SEÇÃO 12 - Enumerações e composição
+ 
+ 1 -> Importante utilizar enumerações em sistemas onde os objetos possuem um "ciclo de vida"(entender como estados).
