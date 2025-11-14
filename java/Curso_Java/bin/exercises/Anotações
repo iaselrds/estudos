@@ -24,3 +24,5 @@ Data-hora global:
  SEÇÃO 12 - Enumerações e composição
  
  1 -> Importante utilizar enumerações em sistemas onde os objetos possuem um "ciclo de vida"(entender como estados).
+ 
+ SEÇÃO 13 - Herança e Polimorfismo
