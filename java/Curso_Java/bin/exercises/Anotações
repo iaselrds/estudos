@@ -26,3 +26,9 @@ Data-hora global:
  1 -> Importante utilizar enumerações em sistemas onde os objetos possuem um "ciclo de vida"(entender como estados).
  
  SEÇÃO 13 - Herança e Polimorfismo
+ 
+ SEÇÃO 14 - Tratamento de Exceções
+ 
+ 1 -> Quando uma etapa do programa pode gerar uma exceção, é necessário que ou o programador trate a exceção ou que a exceção seja propagada:
+  ex: public class Exemplo() throws ParseException (esta necessidade existe em decorrência do StackTrace do Java, que registra as exceções ocorridas durante a 
+                                                    execução, atuando como um log do programa para o desenvolvedor.) 
