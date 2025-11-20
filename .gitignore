@@ -3,3 +3,8 @@ tipos-e-variaveis/.vscode/settings.json
 /.vscode/
 /java/.metadata
 /java/Curso_Java/bin/
+/python/build/
+/python/kivy_project/Scripts/
+/python/kivy_project/share/
+/python/kivy_project/Lib/
+/python/kivy_project/Include/
