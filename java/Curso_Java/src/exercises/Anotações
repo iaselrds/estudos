@@ -40,3 +40,5 @@ SEÇÃO 16 - Interfaces
 2 -> Injeção de Dependência: É uma forma de realizar a inversão de controle: um componente externoinstancia a dependência,
  que é então injetada no objeto "pai". Pode ser implementada de várias formas:
  • Construtor • Classe de instanciação (builder / factory) • Container / framework
+ 
+ 3 -> Não há herança múltipla na concepção clássica do Java
