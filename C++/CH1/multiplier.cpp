@@ -1,0 +1,12 @@
+#include <iostream>
+
+int main() {
+
+    std::cout << "Enter an integer: ";
+
+    int num{ };
+    std::cin >> num;
+
+    std::cout << "Double of the number is: " << num * 2 << '\n';
+    return 0;
+}
