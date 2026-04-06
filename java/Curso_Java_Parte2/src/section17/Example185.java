@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import model.services.PrintService;
 
-public class Lesson185 {
+public class Example185 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

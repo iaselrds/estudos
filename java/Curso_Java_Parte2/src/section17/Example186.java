@@ -9,7 +9,7 @@ import java.util.List;
 import model.entities.Product;
 import model.services.CalculationService;
 
-public class Lesson186 {
+public class Example186 {
 	
 	public static void main(String[] args) {
 		List<Product> list = new ArrayList<>();
